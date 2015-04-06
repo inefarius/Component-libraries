@@ -11,7 +11,7 @@ real scale;
 int fourLayer = 0;
 
 // Layer group to be printed for each PDF.
-topLayers 		= "Top tPlace tDocu tOrigins tValues tNames Dimension Pads Vias Holes";
+topLayers 		= "Top tPlace tDocu tOrigins tValues tNames Dimension Pads Vias Holes Document Reference";
 bottomLayers 	= "Bottom bPlace bDocu bOrigins bValues bNames Dimension Pads Vias Holes";
 inner1Layers 	= "Route2 Dimension Pads Vias Holes";
 inner2Layers 	= "Route15 Dimension Pads Vias Holes";
