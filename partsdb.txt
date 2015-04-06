@@ -141,6 +141,7 @@ C1Q 750	Bel Fuse	DK	507-1076-1-ND	"SMT Fuse, 750 mA, 125 V, Fast-Blow, 1206, C1Q
 56200001009	Littelfuse Wickmann	NW	67K2295	"Fuse holder, TR5, PCB mount"	Fuses and Holders	*	250 V	*	*		
 01530008Z	Littlefuse	NW	67K1421	"Miniature Blade Fuse Holder, Vertical, 15A, 32V"	Fuses and Holders	*	32V	*	*		
 ADS1100A0IDBVT	Texas Instruments	NW	20H0708	"IC, ADC, 16-bit, self-calibrating, 128sps, SOT-23-6"	"ICs, ADC"	*	*	SOT-23-6	*		
+BQ76PL536APAPT	Texas Instruments	DK	296-28926-1-ND	IC, Li-Ion battery monitor, LQFP-64	ICs, BMS	*	*	LQFP-64	*	12.34	ICs
 CAT24C256WI-GT3	ON Semiconductor	DK	CAT24C256WI-GT3OSCT-ND	"IC, Memory, I2CEEPROM, SOIC-8"	"ICs, Memory"	*	*	SOIC-8	*	0.803	ICs
 ISO1050DUBR	Texas Instruments	NW	14R9899	"IC, CAN TXRX, 1MBPS, 1/1, 5V, SOP-8"	"ICs, Communication"	*	*	SOP-8	*	4.54	ICs
 SN65HVD1050D	Texas Instruments	NW	70K4439	"IC, CAN TX/RX, 1 MBps, 5.5V, 8-SOIC"""	"ICs, Communication"	*	*	SOIC-8	*	1.32	ICs
@@ -223,6 +224,7 @@ CRCW06031K82FKEA	Vishay Dale	DK	541-1.82KHCT-ND	"Resistor, 1.82k ohm, 100 mW, 06
 RC0402FR-13100RL	Yageo	NW	67R9962	"Resistor, 100 ohm, 62.5 mW, 1%, 0402"	Resistor	1%	*	402	100 ohm	0.007	Passives
 MC0603WGF1000T5E-TC	Multicomp	NW	58K4446	"*** DISCONTINUED - DO NOT USE *** Resistor, 100 ohm 63 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	100 ohm		
 ERJ-3EKF1001V	Panasonic	NW	64R5308	"Resistor, 1 kohm 100 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	1k ohm	0.012	Passives
+ERJ-2RKF1003X	Panasonic	NW	64R5249	Resistor, 100 kohm, 100mW, 1%, Thick Film, 0402	Resistor	1%	*	0402	100k ohm	0.014	Passives
 RC0603FR-07100KL	Yageo	NW	98K7340	"Resistor, 100k ohm 100 mW, 1%, Thick Film, 0603"	Resistor	1%	50V	603	100k ohm		
 ERJ-2RKF1002X	Panasonic	DK	P10.0KLCT-ND	"Resistor, 10 kohm, 100 mW, 1%, 0402"	Resistor	1%	*	402	10 kohm		
 RC0603JR-1010KL	Yageo	NW	68R0215	"Resistor, 10k ohm 100 mW, 5%, 100ppm, 0603"	Resistor	5%	50V	603	10k ohm	0.008	Passives
