@@ -21,7 +21,7 @@ GRM31CR6YA106KA12L	Murata	NW	72R4211	"Capacitor, Ceramic, 10UF, 35V, X5R, 10%, 1
 T491A106M020AT	Kemet	DK	399-5152-1-ND	"Capacitor, Tantalum, 10uF 20V ,CT3216"	Capacitor	*	20V	CT3216	10 uF		
 C4532Y5V1A107Z	TDK	NW	90R7861	"Capacitor, Ceramic, 100 uF 10V, +80%/-20%, 1812, Y5V"	Capacitor	*	10V	1812	100 uF		
 TAJB107K006RNJ	AVX	NW	60R5877	"Capacitor, Tantalum, 100 uF, 6.3V, 10%, 1411"	Capacitor	10%	6.3V	1411	100 uF	0.633	Passives
-107CKE035M	Illinois Capacitor	NW	69K7903	"Capacitor, Alum elec, 100 uF 35V, 20%, Radial 6.3mm Dia"	Capacitor	20%	35V	"E2,5-7"	100 uF		
+107CKE035M	Illinois Capacitor	NW	69K7903	"Capacitor, Alum elec, 100 uF 35V, 20%, Radial 6.3mm Dia"	Capacitor	20%	35V	"E2,5-7"	100 uF	0.09	
 GRM188R61E225KA12D	Murata	NW	13T1193	"Capacitor, Ceramic, 2.2UF, 10%, 25V, 0603, X5R"	Capacitor	10%	25V	603	2.2 uF	0.107	Passives
 UMK316F225ZG-T	Taiyo Yuden	NW	08P5201	"*NOT NORMALLY STOCKED Capacitor, Ceramic, 2.2 uF 50V, +80%/-20%, 1206, Y5V"	Capacitor	*	50V	1206	2.2 uF		
 GRM21BR60J226ME39L	Murata	NW	24R6338	"Capacitor, Ceramic, 22 uF, 6.3V, X5R, 20%, 0805"	Capacitor	20%	6.3V	805	22 uF	0.091	22 uF
@@ -211,7 +211,7 @@ ACT512-ND	Panasonic	DK	255-1852-ND	RELAY AUTOMOTIVE SPDT 20A 12V	Relay	*	*	*	20A
 IM26GR	TE Connectivity	DK	PB1166CT-ND	"Relay, IM Telecom, DPDT, 12V coil, SMT 2FormC"	Relay	*	12V	2 form C	*		
 MC0805WA00000T5E-TC	Multicomp	NW	58K4927	"Resistor, 0 ohm, Jumper, 100 mW, 0805, 1%"	Resistor	1%	150V	805	0 ohm		
 ERJ-3EKF2003V	Panasonic	NW	65T8368 	"Resistor, 200k, 100mW, 0603, 1%"	Resistor	1%	75V	603	200k ohm	0.096	Passives
-CRCW06030000Z0EA	Vishay Dale	NW	52K8014	"Resistor, 0 ohm, Jumper, 100 mW, 0603, 1%"	Resistor	*	*	603	0 ohm		
+CRCW06030000Z0EA	Vishay Dale	NW	52K8014	"Resistor, 0 ohm, Jumper, 100 mW, 0603, 1%"	Resistor	*	*	603	0 ohm	0.067	
 EXB-2HV102JV	Panasonic	DK	Y1102CT-ND	"Resistor array, 8x0402, 1 k ohm, 63 mW, 5%, 200ppm"	Resistor	5%	*	402	1k ohm		
 CRA2512-FZ-R010ELF	Bourns Inc	DK	CRA2512-FZ-R010ELFCT-ND	Resistor SMD 0.01 OHM 1% 3W 2512	Resistor	1%	*	2512	0.1 ohm	0.6	
 ERJ-2RKF1021X	Panasonic	DK	P1.02KLCT-ND	"Resistor, 1.02k ohm, 0.1W, 1%, 100ppm, 0402"	Resistor	1%	*	402	1.02k ohm		
@@ -238,12 +238,12 @@ RC0805JR-071KL	Yageo	NW	68R0253	"Resistor, 1k ohm 125 mW, 5%, Thick Film, 0805"	
 RC0603FR-0720KL	Yageo	NW	68R0068	"Resistor, Thick Film, 20kohm, 100 mW, 1%, 0603"	Resistor	1%	75 V	603	20k ohm		
 RC0603FR-102K2L	Yageo	NW	68R0123	"Resistor, 2.2k ohm, Thick Film, 100 mW, 1%, 0603"	Resistor	1%	*	603	2.2k ohm		
 CRCW06032M00FKEA	Vishay Dale	NW	52K8249	"Resistor, 2 M ohm, 100 mW, 1%, Thick Film 0603"	Resistor	1%	75V	603	2M ohm		
-RC0603FR-073K24L	Yageo	DK	311-3.24KHRCT-ND	"Resistor, 3.24k ohm, 1%, 100 mW, Thick Film 0603"	Resistor	1%	*	603	3.24k ohm		
+RC0603FR-073K24L	Yageo	DK	311-3.24KHRCT-ND	"Resistor, 3.24k ohm, 1%, 100 mW, Thick Film 0603"	Resistor	1%	*	603	3.24k ohm	0.1	
 CRCW08053R30FNEA	Vishay Dale	NW	89M6813	"Resistor, 3.3 ohm, Thick Film, 125 mW, 1%, 200ppm, 0806"	Resistor	1%	*	805	3.3 ohm		
 RR0510P-3321-D	Susumu	DK	RR05P3.32KDCT-ND	"Resistor, 3.32 kohm, Thin Film, 0.5%, 0402"	Resistor	0.50%	*	402	3.32 kohm		
 RC0603FR-073R92L	Yageo	DK	311-3.92HRCT-ND	"Resistor, 3.92 ohm, 0.1W, 1%, 200ppm, 0603"	Resistor	1%	*	603	3.92 ohm		
 ERJ-3GEYJ301V	Panasonic	DK	P300GCT-ND	"Resistor, 300 ohm, 5% 0603"	Resistor	5%	*	603	300 ohm		
-RC0603FR-0730KL	Yageo	DK	311-30.0KHRCT-ND	"Resistor, 30k ohm, 100 mW, 1%, 100ppm, Thick Film 0603"	Resistor	1%	*	603	30k ohm		
+RC0603FR-0730KL	Yageo	DK	311-30.0KHRCT-ND	"Resistor, 30k ohm, 100 mW, 1%, 100ppm, Thick Film 0603"	Resistor	1%	*	603	30k ohm	0.1	
 CRCW1210330RFKEA	Vishay Dale	NW	53K3182	"Resistor, 330 ohm, 500 mW, 1%, 1210"	Resistor	1%	200V	1210	330 ohm		
 ERJ-2RKF3602X	Panasonic	NW	53W4343	"Resistor, 36 kohm, 1%, 100 mW, 0402"	Resistor	1%	50V	402	36 kohm		
 RC0603FR-0736KL	Yageo	DK	311-36.0KHRCT-ND	"Resistor, 36 kohm, 1%, 100 mW, 0603"	Resistor	1%	75V	603	36k ohm	0.0108	Passives
@@ -295,6 +295,14 @@ FGPMMOPA6H	GlobalTop	AD	ID: 790	"GPS module, Buy from Adafruit"	GPS	*	3.3V	modul
 KDZTR3.6B	Rohm Semiconductor	DK	KDZTR3.6BCT-ND 	"DIODE ZENER 3.8V 1W, SOD-123F"	Zener Diode	5.00%	*	SOD-123F	3.8V	0.56	
 5223	Keystone	DK	5223K-ND 	Batt Contact w/ tab Positive	Connector	*	*	*	*	0.17	
 5201	Keystone	DK	5201K-ND 	Batt Contact w/ tab Negative	Connector	*	*	*	*	0.26	
-DAC7821IPW 	Texas Instruments	NW	80K1419 	"IC, Digital to Analog Converter, 12 bit, 2.7-5.5V, TSSOP-20"	"ICs, DAC"	*	*	TSSOP-20	*	6.69	ICs
-LMV324IPWR 	Texas Instruments	NW	75C0693 	"IC, Quad Op Amp, 1MHz, 1V/us, TSSOP-14"	"ICs, Op-Amps"	*	5.5V	TSSOP-14	*	0.738	ICs
 3362P-1-504LF	Bourns Inc	DK	3362P-504LF-ND 	"Trimpot, 500K, vertical"	Pot	*	*	3362P	*	1.02	
+0603YD224KAT2A	AVX	NW	96M1182	"Capacitor, Ceramic 220nF 16V 10% 603 X5R"	Capacitor	10%	16V	603	220n	0.162	Capacitor
+06033C103KAT2A	AVX	NW	88W4167	"Capacitor, Ceramic 10nF 25V 10% 603 X7R"	Capacitor	10%	25V	603	10n	0.1	Capacitor
+06031C102KAT2A	AVX	NW	96K4757	"Capacitor, Ceramic 1nF 100V 10% 603 X7R"	Capacitor	10%	100V	603	1n	0.116	Capacitor
+ERJ-3EKF3902V	Panasonic	NW	64R5345	"Resistor, 39kohm 75V 100mW 1% 603"	Resistor	1%	75V	603	39k	0.1	Resistor
+MC0063W06031510R	Multicomp	NW	58K4616	"Resistor, 510 ohm 50V 60mW 1% 603"	Resistor	1%	50V	603	510	0.067	Resistor
+MC0603SAF1004T5E	Multicomp	NW	79M5904	"Resistor, 1Mohm 75V 100mW 1% 603"	Resistor	1%	75V	603	1M	0.067	Resistor
+MC0063W06031220K	Multicomp	NW	58K4532	"Resistor, 220kohm 50V 63mW 1% 603"	Resistor	1%	50V	603	220k	0.067	Resistor
+CRCW060349K9FKEA	Vishay	NW	52K8563	"Resistor, 49.9kohm 75V 100mW 1% 603"	Resistor	1%	75V	603	49.9k	0.064	Resistor
+DAC7821IPW	Texas Instruments	NW	80K1419	"IC, DAC 12bit 2.7-5.5V TSSOP-20"	"ICs, DAC"	*	*	TSSOP-20	*	6.69	ICs
+LMV324IPWR	Texas Instruments	NW	75C0693	"IC, Quad Op Amp, 1MHz, 1V/us, TSSOP-14"	"Ics, Op Amps"	*	5.5V	TSSOP-14	*	0.738	ICs
