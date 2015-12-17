@@ -295,6 +295,7 @@ FGPMMOPA6H	GlobalTop	AD	ID: 790	"GPS module, Buy from Adafruit"	GPS	*	3.3V	modul
 42-01146	Conec	*	*	CONN HEADER PNL MNT 8POS PIN PCB	Connector	*	*	M8	*		
 043045-0418	Molex	DK	WM1802TR-ND	"Header, MicroFit, 4pos, SMD, Vertical"	Connector	*	*	*	*		
 M22-7131042	Harwin	DK	952-1354-5-ND	Female pin header, 10 pos, 2mm pitch, selective gold plated	Connector	*	*	*	*	1.49	Connectors
+M22-2511005	Harwin	DK	952-1316-ND	Male pin header, 10 pos, 2mm pitch, selective gold plated	Connector	*	*	*	*	0.60	Connectors
 KDZTR3.6B	Rohm Semiconductor	DK	KDZTR3.6BCT-ND 	"DIODE ZENER 3.8V 1W, SOD-123F"	Zener Diode	5.00%	*	SOD-123F	3.8V	0.56	
 5223	Keystone	DK	5223K-ND 	Batt Contact w/ tab Positive	Connector	*	*	*	*	0.17	
 5201	Keystone	DK	5201K-ND 	Batt Contact w/ tab Negative	Connector	*	*	*	*	0.26	
