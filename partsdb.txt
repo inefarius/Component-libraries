@@ -305,6 +305,7 @@ KDZTR3.6B	Rohm Semiconductor	DK	KDZTR3.6BCT-ND 	"DIODE ZENER 3.8V 1W, SOD-123F"	
 5201	Keystone	DK	5201K-ND 	Batt Contact w/ tab Negative	Connector	*	*	*	*	0.26	
 111-0702-001	Cinch Connectivity	DK	J10125-ND	Binding post, insulated, red, 6-32 stud size	Connector	*	*	*	*	4.05	Connectors
 111-0703-001	Cinch Connectivity 	DK	J10126-ND	Binding post, insulated, black, 6-32 stud size	Connector	*	*	*	*	4.05	Connectors
+73171-4230	Molex	DK	WM5281-ND	BNC jack, 50 ohm, PCB mount, right-angle	Connector	*	*	*	*	1.61	Connectors
 3362P-1-504LF	Bourns Inc	DK	3362P-504LF-ND 	"Trimpot, 500K, vertical"	Pot	*	*	3362P	*	1.02	
 0603YD224KAT2A	AVX	NW	96M1182	"Capacitor, Ceramic 220nF 16V 10% 603 X5R"	Capacitor	10%	16V	603	220n	0.162	Capacitor
 06033C103KAT2A	AVX	NW	88W4167	"Capacitor, Ceramic 10nF 25V 10% 603 X7R"	Capacitor	10%	25V	603	10n	0.1	Capacitor
