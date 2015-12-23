@@ -96,6 +96,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"""0.05"""" male pin header, 2 rows, 14 positi
 105028-1001	Molex	Mouser	538-105028-1001	Lepton Camera Socket	Socket	*	*	*	*		
 534237-4	TE Connectivity	DK	A26418-ND	"""Header, Female socket, .1"""", 1-row, 6-pos"""	Connector	*	*	*	*		
 2213S-20G	Multicomp	NW	08N6794	"""""""Header, Male pin, 0.1"""""""", 20 pos, 2 rows"""""""	Connector	*	*	*	*		
+2206SA-10-46	Multicomp	NW	11N6311	Header, female pin, 10x1pos, 1.27 mm pitch, select gold plated, through hole	Connector	*	*	*	*	0.835	Connectors
 9-146274-0-20	TE Connectivity	DK	A34259-20-ND	"""Header, Male pin, .1"""" 1-row, 20 pos, breakable (Long Pins)"""	Connector	*	*	*	*		
 2-826629-0	TE Connectivity	DK	A106709-ND	"""Header, Male pin, .1"""", 1-row, 20 pos, breakable (Short Pins)"""	Connector	*	*	*	*		
 4-103322-0-24	TE Connectivity	DK	A26536-24-ND	"""Header, .1"""", 2-row, 48-pos, breakable (Long Pins)"""	Connector	*	*	*	*		
@@ -116,6 +117,7 @@ R-78C3.3-1.0	Recom	DK	945-1394-5-ND	"DC-DC Converter, 1A, 9-42V input, 3.3V outp
 R-78C5.0-1.0	Recom	DK	945-1395-5-ND	"DC-DC Converter, 1A, 9-42V input, 5V output, Non-Isolated, 7805 replacement"	DC/DC	*	5V	SIP3	1A		
 PTH08T260WAD	Texas Instruments	DK	296-21404-ND	"DC-DC Converter, 3-A, 4.5 to 14V Input, Non-Isolated, Wide Output, Adjustable Power Module"	DC/DC	*	*	*	*		
 BAT54C	Fairchild Semiconductor	NW	35C0398	"Schottky Rectifier, common cathode, Vf=800 mV, If = 200 mA, Vrrm = 30 V"	Diode	*	*	SOT-23	*		
+CUS08F30	Toshiba	DK	CUS08F30H3FCT-ND	Schottky diode, 30V, 800 mA, USC/SOT-323	Diode	*	30V	SOD-323	*	0.34	Passives
 BZX84C5V1TS-7-F	Diodes Inc	DK	BZX84C5V1TS-FDICT-ND	"Diode array, Zener, 5.1 V, 3 discrete diodes, 200 mW, SOT-363"	Diode	*	5.1 V	SOD-323	5.1 V		
 MM3Z3V0T1G	ON Semiconductor	NW	09R9502	"Diode, Zener, 3 V, 200 mW, SOD-323"	Diode	*	3 V	SOD-323	3 V	0.017	Passives
 MMSZ5226BS-7-F	Diodes Inc	DK	MMSZ5226BS-FDICT-ND	"Diode, Zener, 3.3V 200mW, SOD-323"	Diode	*	3.3V	SOD-323	3.3V	0.258	Passives
@@ -220,7 +222,7 @@ ERJ-2RKF1021X	Panasonic	DK	P1.02KLCT-ND	"Resistor, 1.02k ohm, 0.1W, 1%, 100ppm, 
 ERJ-2RKF1471X	Panasonic	NW	53W4223	"RESISTOR, THICK FILM, 1.47KOHM, 100mW, ﾱ 1%, 0402"	Resistor	1%	*	402	1.47k ohm	0.003	Passives
 CRCW06031K47FKEA	Vishay Dale	DK	541-1.47KHCT-ND	"Resistor, 1.47k ohm, 100 mW, 0603, 1%"	Resistor	1%	75V	603	1.47k ohm	0.005	Passives
 RC0603JR-071K5L	Yageo	NW	68R0139	"Resistor, 1.5k ohm, 100 mW, 5%, Thick Film, 100ppm"	Resistor	5%	50V	603	1.5k ohm		
-ERJ-6GEYJ152V	Panasonic	NW	65T8789	"Resistor, 1.5k ohm 125 mW, 5%, Thick Film, 200ppm, 0805"	Resistor	5%	150V	805	1.5k ohm		
+ERJ-6GEYJ152V	Panasonic	NW	65T8789	"Resistor, 1.5k ohm 125 mW, 5%, Thick Film, 200ppm, 0805"	Resistor	5%	150V	805	1.5k ohm	0.003	Passives
 RC0402FR-071K82L	Yageo	DK	311-1.82KLRCT-ND	RES 1.82K OHM 1/16W 1% 0402 SMD	Resistor	1%	*	402	1.82k ohm		
 CRCW06031K82FKEA	Vishay Dale	DK	541-1.82KHCT-ND	"Resistor, 1.82k ohm, 100 mW, 0603, 1%"	Resistor	1%	75V	603	1.82k ohm	0.005	Passives
 RC0402FR-13100RL	Yageo	NW	67R9962	"Resistor, 100 ohm, 62.5 mW, 1%, 0402"	Resistor	1%	*	402	100 ohm	0.007	Passives
@@ -233,7 +235,7 @@ RC0603JR-1010KL	Yageo	NW	68R0215	"Resistor, 10k ohm 100 mW, 5%, 100ppm, 0603"	Re
 RC0603FR-0720KL	Vishay Dale	NW	68R0068	"Resistor, Thick Film, 20 kohm, 100 mW, 1%, 0603"	Resistor	1%	75V	603	20k ohm	0.017	Passives
 RC0805FR-07120RL	Yageo	DK	311-120CRCT-ND	"Resistor, 120 ohm 125 mW, 5%, Thick Film 0805"	Resistor	5%	*	805	120 ohm		
 ERJ-3GEYJ161V	Panasonic	DK	P160GCT-ND	"Resistor, 160 ohm, 5%, 0603"	Resistor	5%	*	603	160 ohm		
-CRCW0805169RFKEA	Vishay Dale	NW	52K9913	"Resistor, 169 ohm 125 mW, 1%, 100ppm, Thick Film 0805"	Resistor	1%	150V	805	169 ohm		
+CRCW0805169RFKEA	Vishay Dale	NW	52K9913	"Resistor, 169 ohm 125 mW, 1%, 100ppm, Thick Film 0805"	Resistor	1%	150V	805	169 ohm	0.009	Passives	
 CRCW04021K00JNTD	Vishay Dale	NW	23C6830	"Resistor, 1k ohm, 63 mW, 5%, Thick Film 0402"	Resistor	5%	50V	402	1k ohm	0.008	CRCW04021K00JNTD
 MC0603WGF1001T5E-TC	Multicomp	NW	58K4448	"Resistor, 1k ohm 63 mW, 1%, 0603"	Resistor	1%	50V	603	1k ohm		
 RC0805JR-071KL	Yageo	NW	68R0253	"Resistor, 1k ohm 125 mW, 5%, Thick Film, 0805"	Resistor	5%	150V	805	1k ohm		
@@ -283,7 +285,7 @@ B3F-3152	Omron	NW	52F3555	"Switch, Pushbutton momentary, SPST-NO, 50 mA"	Switch	
 "BC846BW,115"	NXP Semiconductors	DK	568-6060-1-ND	"BJT, NPN, 65V, 100 mA, SOT-23"	Transistor	*	65V	SOT-23	*		
 "BC856BW,115"	NXP Semiconductors	DK	568-6078-1-ND	"BJT, PNP, 65V, 100 mA, SOT-23"	Transistor	*	65V	SOT-23	*		
 REF5030ID	Texas Instruments	NW	50M8901	"IC, Voltage Reference, 3.000 V, 0.05%"	Voltage Reference	*	*	SOIC-8	*		
-MM3Z3V3ST1G	ON Semiconductor	NW	09R9503	"ZENER DIODE, 200mW, 3.3V, SOD-323"	Zener Diode	*	3.3V	SOD-323	3.3V		
+MM3Z3V3ST1G	ON Semiconductor	NW	09R9503	"ZENER DIODE, 200mW, 3.3V, SOD-323"	Zener Diode	*	3.3V	SOD-323	3.3V	Passives	0.15
 PB1057CT-ND	TE Connectivity	DK	V23079D1003B301	RELAY GEN PURPOSE DPDT 2A 12V	Relay	*	12V	*	*		
 WM17505-ND	Molex	DK	19427-0032	CONN HEADER 4POS RIGHT ANGLE TIN	Connector	*	*	*	*		
 TL7700CDGKR	Texas Instruments	DK	296-24463-2-ND	IC SUPPLY VOLT SUPERVISOR 8VSSOP	"IC, Voltage Supervior"	*	40V	VSSOP-8	*		
@@ -294,9 +296,17 @@ FGPMMOPA6H	GlobalTop	AD	ID: 790	"GPS module, Buy from Adafruit"	GPS	*	3.3V	modul
 43-01211	Conec	DK	626-1513-ND	"M12-5 PCB header, right angle, male pins, shielded"	Connector	*	*	M12	*	10.63	Connectors
 42-01146	Conec	*	*	CONN HEADER PNL MNT 8POS PIN PCB	Connector	*	*	M8	*		
 043045-0418	Molex	DK	WM1802TR-ND	"Header, MicroFit, 4pos, SMD, Vertical"	Connector	*	*	*	*		
+M22-7131042	Harwin	DK	952-1354-5-ND	Female pin header, 10 pos, 2mm pitch, selective gold plated	Connector	*	*	*	*	1.49	Connectors
+M22-2511005	Harwin	DK	952-1316-ND	Male pin header, 10 pos, 2mm pitch, selective gold plated	Connector	*	*	*	*	0.60	Connectors
+M22-7140342	Harwin	DK	952-1357-5-ND	Female pin header, 2x3 pos, 2mm pitch, selective gold plated	Connector	*	*	*	*	1.15	Connectors
+M22-2520305	Harwin	DK	952-1318-ND	Male pin header, 2x3pos, 2mm pitch, selective gold plated	Connector	*	*	*	*	0.43	Connectors
 KDZTR3.6B	Rohm Semiconductor	DK	KDZTR3.6BCT-ND 	"DIODE ZENER 3.8V 1W, SOD-123F"	Zener Diode	5.00%	*	SOD-123F	3.8V	0.56	
 5223	Keystone	DK	5223K-ND 	Batt Contact w/ tab Positive	Connector	*	*	*	*	0.17	
 5201	Keystone	DK	5201K-ND 	Batt Contact w/ tab Negative	Connector	*	*	*	*	0.26	
+111-0702-001	Cinch Connectivity	DK	J10125-ND	Binding post, insulated, red, 6-32 stud size	Connector	*	*	*	*	4.05	Connectors
+111-0703-001	Cinch Connectivity 	DK	J10126-ND	Binding post, insulated, black, 6-32 stud size	Connector	*	*	*	*	4.05	Connectors
+73171-4230	Molex	DK	WM5281-ND	BNC jack, 50 ohm, PCB mount, right-angle	Connector	*	*	*	*	1.61	Connectors
+1734354-1	TE Connectivity	DK	A35107-ND	DE-9 (DB-9) receptacle, 9 positions, PCB mount, right-angle	Connector	*	*	*	*	1.43	Connectors
 3362P-1-504LF	Bourns Inc	DK	3362P-504LF-ND 	"Trimpot, 500K, vertical"	Pot	*	*	3362P	*	1.02	
 0603YD224KAT2A	AVX	NW	96M1182	"Capacitor, Ceramic 220nF 16V 10% 603 X5R"	Capacitor	10%	16V	603	220n	0.162	Capacitor
 06033C103KAT2A	AVX	NW	88W4167	"Capacitor, Ceramic 10nF 25V 10% 603 X7R"	Capacitor	10%	25V	603	10n	0.1	Capacitor
