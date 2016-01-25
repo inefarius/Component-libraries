@@ -111,6 +111,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"""0.05"""" male pin header, 2 rows, 14 positi
 1217107-1	TE Connectivity	DK	A110905CT-ND	"Quick-connect receptacle, female blade terminal, PCB mount, horizontal"	Connector	*	*	*	*		
 R30-1011102	Harwin Inc	DK	952-1486-ND	"Standoff, Hex, M3 x 11mm. (suitable for .1�۝ header board-to-board stack)"	Connector	*	*	*	*		
 A-DF-09-A/KG-T4S	Assmann WSW Component	DK	AE10924-ND	"D-Sub connector, 9 pos, DE shell size, female, RA, through hole PCB"	Connector	*	*	*	*	0.78	Connectors
+PJ-002A	CUI Inc	DK	CP-002A-ND	"Cylindrical power connector, barrel jack, 5.5x2.1mm, PCB mount, right angle"	Connector	*	*	*	*	0.93	Connectors
 KC5032A25.0000CM0E00	AVX	DK	1253-1043-1-ND	"Oscillator, 25MHz, 1.6V-5.5V, 5x3.2mm SMD"	Oscillator	50ppm	1.6-5.5V	5x3.2SMD	25MHz	1.46	Oscillator
 ECS-200-8-30B-CKM	ECS Inc	DK	XC1841CT-ND	"Crystal, 20MHz, 10ppm, 8pF load, 5x3SMD"	Crystal	10ppm	*	5x3.2SMD	20MHz		
 ECS-100-8-30B-CKM	ECS Inc	DK	XC1835CT-ND	"Crystal, 10MHz, 10ppm, 8pF load, 5x3SMD"	Crystal	10ppm	*	5x3.2SMD	10MHz		
