@@ -268,6 +268,7 @@ ERA-3AEB562V	Panasonic	NW	08N2130	"Resistor, 56k ohm, 63 mW, 0.1%, ﾕ_ﾱ25ppm/
 ERJ-3EKF6192V	Panasonic	NW	65T8501	"Resistor, Thick Film 61.9k, 100 mW, 1%, 0603"	Resistor	1.00%	75 V	603	61.9k ohm		
 ERJ-3GEYJ683V	Panasonic	NW	65T8681	"Resistor, 68k ohm, 0.1W, 5%, 0603 "	Resistor	5%	150V	603	68 kohm		
 ERJ-6GEYJ681V	Panasonic	NW	65T8839	"Resistor, 680 ohm, 0.125W, 5%, 0805"	Resistor	5%	*	805	680 ohm		
+RMCF1210JT680R	Stackpole Electronics	DK	RMCF1210JT680RCT-ND	"Resistor, 680 ohm, 0.5W, 5%, 1210"	Resistor	5%	*	1210	680	0.10	Passives
 RC0603FR-077K5L	Yageo	NW	68R0113	"Resistor, 7.5k ohm 100 mW, 1%, 100ppm, 0603"	Resistor	1%	50V	603	7.5k ohm		
 CRCW080560R4FKEA	VISHAY DALE	NW	53K0403	"RESISTOR, THICK FILM, 60.4 OHM, 125mW, 1%"	Resistor	1%	150V	805	60.4 Ohm		
 ERJ-3EKF60R4V	Panasonic	NW	65T8495	"Resistor, 60.4 ohm, 100 mW, 1%, 0603"	Resistor	1%	50 V	603	60.4 ohm	0.096	Passives
