@@ -293,6 +293,7 @@ PB1057CT-ND	TE Connectivity	DK	V23079D1003B301	RELAY GEN PURPOSE DPDT 2A 12V	Rel
 WM17505-ND	Molex	DK	19427-0032	CONN HEADER 4POS RIGHT ANGLE TIN	Connector	*	*	*	*		
 TL7700CDGKR	Texas Instruments	DK	296-24463-2-ND	IC SUPPLY VOLT SUPERVISOR 8VSSOP	"IC, Voltage Supervior"	*	40V	VSSOP-8	*		
 ADG719BRTZ	Analog Devices	Newark	96K2067	"Analog switch, single, SPDT, SOT-23-6"	"IC, Switch"	*	*	SOT-23-6	*		
+TCA9555PWR	Texas Instruments	DK	296-24827-1-ND	"I/O expander, 16bit, I2C, with interrupt"	"IC, IO expander"	*	*	TSSOP-24	*	1.95
 MPU-6000	InvenSense	DK	1428-1005-1-ND	"IC , 6-dof imu QFN24"	"IC, Sensor"	*	3.3v	QFN24	*		
 FGPMMOPA6H	GlobalTop	AD	ID: 790	"GPS module, Buy from Adafruit"	GPS	*	3.3V	module	*		
 43-01169	Conec	DK	626-1497-ND	CONN RCPT PNL MNT 5POS PIN PCB	Connector	*	*	M12	*		
