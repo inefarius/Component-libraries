@@ -95,6 +95,7 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"""0.05"""" male pin header, 2 rows, 14 positi
 55959-3830	Molex	Arrow	559593830	"Micro-Clasp header, 38pos, 2 row, through hole"	Connector	*	*	*	*		
 55959-2030	Molex	NW	09J7572	"Micro-Clasp header, 20pos, 2 rows, RA, through-hole"	Connector	*	*	*	*	1.13	Connectors
 55959-1030	Molex	DK	WM7595-ND	"Micro-Clasp header, 10pos, 2 rows, RA, through-hole"	Connector	*	*	*	*		
+55917-1010	Molex	NW	28M9461	Micro-Clasp header, 10pos, 2 rows, vertical, through-hole	Connector	*	*	*	*	0.50	Connectors
 6-534237-8	TE Connectivity	DK	A32916-ND	"""Header, Female socket, .1"""", 1-row, 20-pos"""	Connector	*	*	*	*		
 105028-1001	Molex	Mouser	538-105028-1001	Lepton Camera Socket	Socket	*	*	*	*		
 534237-4	TE Connectivity	DK	A26418-ND	"""Header, Female socket, .1"""", 1-row, 6-pos"""	Connector	*	*	*	*		
