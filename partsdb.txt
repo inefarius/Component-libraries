@@ -62,6 +62,8 @@ FTS-107-01-F-DV	Samtec	NW	56P3763	"""0.05"""" male pin header, 2 rows, 14 positi
 43045-0621	Molex	DK	WM2674-ND	"Micro-Fit header, 6pos, RA, through-hole, with metal retaining clip"	Connector	*	*	*	*		
 43045-0609	Molex	DK	WM1827CT-ND	"Micro-Fit header, 6pos, RA, SMD, with solder tabs"	Connector	*	*	*	*	3.2	Connectors
 43045-0606	Molex	NW	92M1174	"*** NOT STOCKED - AVOID *** Micro-Fit header, 6pos, RA, SMD, with metal retaining clip"	Connector	*	*	*	*		
+43045-0612	Molex	NW	97C5002	Micro-Fit header, 6pos, vertical, through-hole, w/PCB polarizing peg, tin	Connector	*	*	*	*	0.914
+43045-0613	Molex	NW	09H1482	Micro-Fit header, 6pos, vertical, through-hole, w/PCB polarizing peg, gold	Connector	*	*	*	*	1.70
 43045-0406	Molex	NW	56H9461	"Micro-Fit header, 4pos, RA, SMT, Press-Fit Retention, Tin Plating"	Connector	*	*	*	*	2.42	
 87438-0342	Molex	NW	94M1089	"Pico-Spox header, 3pos, RA, SMT"	Connector	*	*	*	*		
 776262-1	TE Connectivity	DK	A106462-ND	AmpSeal 14-pin vertical header	Connector	*	*	*	*		
