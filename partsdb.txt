@@ -299,6 +299,7 @@ ADG719BRTZ	Analog Devices	Newark	96K2067	"Analog switch, single, SPDT, SOT-23-6"
 TCA9555PWR	Texas Instruments	DK	296-24827-1-ND	"I/O expander, 16bit, I2C, with interrupt"	"IC, IO expander"	*	*	TSSOP-24	*	1.95
 MPU-6000	InvenSense	DK	1428-1005-1-ND	"IC , 6-dof imu QFN24"	"IC, Sensor"	*	3.3v	QFN24	*		
 FGPMMOPA6H	GlobalTop	AD	ID: 790	"GPS module, Buy from Adafruit"	GPS	*	3.3V	module	*		
+S2B-XH-A	JST	DK	455-2257-ND	XH connector header, 2.5mm pitch, through-hole, right-angle, 2 positions	Connector	*	*	*	*	Connectors	0.17
 S3B-XH-A	JST	DK	455-2250-ND	XH connector header, 2.5mm pitch, through-hole, right-angle, 3 positions 	Connector 	*	*	*	*	Connectors	0.22
 S4B-XH-A	JST	DK	455-2243-ND	XH connector header, 2.5mm pitch, through-hole, right-angle, 4 positions 	Connector 	*	*	*	*	Connectors	0.27
 B4B-XH-A	JST	NW	73M9436	XH connector header, 2.5mm pitch, through-hole, vertical, 4 positions	Connector	*	*	*	*	Connectors	0.162
