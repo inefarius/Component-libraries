@@ -176,6 +176,7 @@ AD8662ARMZ	Analog Devices	DK	AD8662ARMZ-REELCT-ND	"IC, Dual Op-Amp, Single Suppl
 TPS560200DBVR	Texas Instruments			"IC, Synchronous Step-Down Converter, 4.5V - 17V Input, 5-SOT-23"	"ICs, Power Elec"	*	*	SOT-23-5	*		
 ADUM5000ARWZ	Analog Devices	NW	19P8235	"IC, DC/DC Conv, 180MHz, 3.3V-5V in, 3.3V/5V out"	"ICs, Power Elec"	*	*	SOIC-16	*	6.99	ICs
 LP38693MP-3.3/NOPB	Texas Instruments	NW	41K7496	"IC, LDO VOLT REG, 3.3V, 0.5A, SOT-223-5"	"ICs, Power Elec"	*	*	SOT-223	*	1.53	ICs
+LM1117MP-ADJ/NOPB	Texas Instruments	NW	82K9671	IC, LDO voltage regulator, 1.25V-13.8V, SOT223-3	ICs, Power Elec	*	*	SOT223-3	0.555	ICs
 MIC5255-2.8YD5 TR	Micrel	DK	576-2818-1-ND	"IC, LDO Volt Reg, 2.8V, .15A, SOT-23-5"	"Ics, Power Elec"	*	*	SOT-23-5	*	1.14	ICs
 MIC5268-1.2YM5 TR	Micrel	NW	26R6811	"IC, LDO Volt Reg, 1.2V, .15A, SOT-23-5"	"Ics, Power Elec"	*	*	SOT-23-5	*	0.92	ICs
 LMR14206XMKE/NOPB	Texas Instruments	NW	76T5004	"IC, DC-DC Conv, Buck, 42 Vin, 1.25 MHz, SOT23-6"	"ICs, Power Elec"	*	*	SOT-23-6	*	2.72	ICs
