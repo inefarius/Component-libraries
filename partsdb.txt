@@ -305,6 +305,7 @@ FGPMMOPA6H	GlobalTop	AD	ID: 790	"GPS module, Buy from Adafruit"	GPS	*	3.3V	modul
 S2B-XH-A	JST	DK	455-2257-ND	XH connector header, 2.5mm pitch, through-hole, right-angle, 2 positions	Connector	*	*	*	*	0.17	Connectors
 S3B-XH-A	JST	DK	455-2250-ND	XH connector header, 2.5mm pitch, through-hole, right-angle, 3 positions 	Connector 	*	*	*	*	0.22	Connectors
 S4B-XH-A	JST	DK	455-2243-ND	XH connector header, 2.5mm pitch, through-hole, right-angle, 4 positions 	Connector 	*	*	*	*	0.27	Connectors
+B2B-XH-A	JST	DK	455-2247-ND	XH connector header, 2.5mm pitch, through-hole, vertical, 2 positions	Connector	*	*	*	*	0.15	Connectors
 B4B-XH-A	JST	NW	73M9436	XH connector header, 2.5mm pitch, through-hole, vertical, 4 positions	Connector	*	*	*	*	0.162	Connectors
 B3B-XH-A	JST	NW	73M9431	XH connector header, 2.5mm pitch, through-hole, vertical, 3 positions	Connector	*	*	*	*	0.162	Connectors
 BXH-001T-P0.6	JST	NW	73M9274	XH connector terminal, tin plating, crimp, 28-22awg	Connector	*	*	*	*	0.069	Connectors
