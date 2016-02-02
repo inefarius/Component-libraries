@@ -167,6 +167,7 @@ LTC1563-2CGN#PBF	Linear Technology	DK	LTC1563-2CGN#PBF-ND	"IC, Filter, Lowpass, 
 SN74AHC1G86DBVR	Texas Instruments	NW	10C2398	"IC, Single XOR Gate, SOT-23-5"	"Ics, Logic"	*	5.5V	SOT-23-5	*		
 "74HCT164D,652"	NXP Semiconductors	DK	568-2791-5-ND	"IC, Shift Register, 74HCT164D, SO14"	"ICs, Logic"	*	*	SOIC-14	*		
 MM74HC573MTC	Fairchild Semiconductor	NW	82C9246	"IC, Octal D-Latch, 3-State, TSSOP-20"	"ICs, Logic"	*	*	TSSOP-20	*		
+SN74LVC1G08DBVR	Texas Instruments	NW	76C4078	"IC, single AND gate, non-inverting, SOT23-5"	"ICs, Logic"	*	*	SOT-23-5	*	0.484	ICs
 SN74LVC1G17DBVR	Texas Instruments	DK	296-11933-1-ND	"IC, Buffer, schmit trig, SOT23-5"	"ICs, Logic"	*	5.5V	SOT-23-5	*		
 SN74LVC2G07DBVR	Texas Instruments	DK	296-13494-1-ND	"IC, Buffer, 2-bit, non-invert, open drain, SOT-23-6"	"ICs, Logic"	*	*	SOT-23-6	*	0.59	ICs
 74ACT16244DGGR	Texas Instruments	DK	296-1004-1-ND	"IC, Buffer, 16-bit, Push-pull outputs, TSSOP48"	"ICs, Logic"	*	*	TSSOP-48	*		
