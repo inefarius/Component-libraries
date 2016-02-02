@@ -206,6 +206,7 @@ SMP4-RGY	Bivar Inc	DK	492-1226-1-ND	"LED, Tri-Color, Red, Yellow, Green, "	LED	*
 MCP1825T-3302E/DC	Microchip	DK	MCP1825T-3302E/DC	"LDO, 3.3V, 500 mA, SOT-223-5"	Linear Regulator	*	3.3V	SOT-223-5	3.3V		
 MIC5205-3.3YM5 TR	Micrel	DK	576-1259-1-ND	"LDO, 3.3V 150mA, SOT-23-5"	Linear Regulator	*	*	SOT-23	3.3V		
 TMS320F28035PNT	Texas Instruments	DK	296-32764-ND	"IC, MCU, C2000 piccolo, LQFP80"	"ICs, MCU"	*	*	LQFP-80	*	12.38	ICs
+BCX38C	Diodes Inc	DK	BCX38C-ND	NPN transistor, Darlington pair, 60V, 0.8A, TO-92	Transistor	*	60V	TO-92	*	0.55	Semiconductors
 FDN359AN	Fairchild Semiconductor	NW	38C7142	"N-channel MOSFET, 30 V, 2.7 A, SOT-23"	MOSFET	*	30 V	SOT-23	*	Semiconductors		
 BSS138	Fairchild Semiconductor	NW	58K8769	N-channel MOSFET, 50V Vds, 220 mA Ids, SOT-23	MOSFET	*	50 V	SOT-23	*	0.149	Semiconductors
 BSS84	Fairchild Semiconductor	NW	58K8770	"P-Channel Enhancement Mode Field-Effect Transistor, -0.13 A, -50 V, SOT-23"	* -50 V	SOT-23	*	0.1926	Semiconductors		
@@ -272,6 +273,8 @@ RC0402FR-07510KL	Yageo	DK	311-510KLRCT-ND	RES 510K OHM 1/16W 1% 0402 SMD	Resisto
 CRCW0603510KFKEA	Vishay Dale	NW	52K8595	"Resistor, 510k ohm, 100 mW, 1%, Thick Film 0603"	Resistor	1%	75V	603	510k ohm	0.005	Passives
 ERA-3AEB562V	Panasonic	NW	08N2130	"Resistor, 56k ohm, 63 mW, 0.1%, ﾕ_ﾱ25ppm/ﾕ_ﾼC, 0603"	Resistor	0.10%	75V	603	56k ohm		
 ERJ-3EKF6192V	Panasonic	NW	65T8501	"Resistor, Thick Film 61.9k, 100 mW, 1%, 0603"	Resistor	1.00%	75 V	603	61.9k ohm		
+ERJ-3EKF1801V	Panasonic	NW	64R5324	Resistor, 1.8 kohm, 0.1W, 1%, 0603	Resistor	1%	*	0603	1.8k ohm	0.015	Passives
+CRCW06036K80FKEA	Vishay Dale	NW	52K8640	Resistor, 6.8 kohm, 0.1W, 1%, 0603	Resistor	1%	75V	0603	6.8k ohm	0.004	Passives
 ERJ-3GEYJ683V	Panasonic	NW	65T8681	"Resistor, 68k ohm, 0.1W, 5%, 0603 "	Resistor	5%	150V	603	68 kohm		
 ERJ-6GEYJ681V	Panasonic	NW	65T8839	"Resistor, 680 ohm, 0.125W, 5%, 0805"	Resistor	5%	*	805	680 ohm		
 ERJ-3EKF6800V	Panasonic	NW	64R5358	"Resistor, 680 ohm, 0.1W, 1%, 0603"	Resistor	1%	*	0603	680 ohm	0.003 Passives
