@@ -1,4 +1,7 @@
 Mfg Part Num	Mfg Name	VID	Vendor Part Num	Description	Type	Tolerance	Voltage Rating	Package	Value	Cost	Category
+THS50R68J	TE	Mouser	279-THS50R68J	Chassis Mount Power Resistor 50W	Wirewound	5%	1250V	NA	0.68 ohm	3.01	Passives
+KLT1C12DC12	Hasco	"All Electronics"	RLY-717	12 VDC 12 AMP RELAY	SPDT	NA	277VAC/28VDC	NA	0.75	Relay
+DRV8860PW	TI	NW	11X3139	"Low-side Octal Driver with serial interface"	Driver	NA	38V	TSSOP-16	NA	4.36	ICs
 AI-1223-TWT-12V-R	"PUI Audio, Inc."	DK	668-1018-ND	"Buzzer, Magnetic, 12mm dia x 9.7mm, 12VDC"	Buzzer	*	12V	F/TMB	*		
 04025A330JAT2A	AVX	DK	478-1076-1-ND	"Capacitor, 33 pF, 50V, 5%, NP0, 0402"	Capacitor	5%	50V	402	33 pF	0.02	Passives
 GRM188R71H103KA01D	Murata	NW	19X1714	"Capacitor, .01uF, 50V, 10%, X7R, 0603"	Capacitor	10%	50V	603	.01uF	0.013	Passives
