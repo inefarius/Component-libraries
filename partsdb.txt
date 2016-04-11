@@ -59,6 +59,7 @@ C1608C0G1H080D080AA	TDK	DK	445-5043-1-ND	"Capacitor, Ceramic, 8pF, 50V, NP0, 060
 87438-0242	Molex	NW	19K4661	"Pico-Spox header, 2pos, RA, SMT"	Connector	*	*	*	*		
 43045-0218	Molex	NW	28M9399	"Micro-Fit header, 2pos, vert, SMT, Solder Tab Retention, Tin Plating"	Connector	*	*	*	*	2.11	
 44428-0602	Molex	DK	WM2028-ND	Micro-Fit BMI header, 6pos, right-angle, male pins, gold	Connector	*	*	*	*	2.27	Connectors
+44769-0602	Molex	DK	WM1961-ND	Micro-Fit BMI header, 6pos, vertical, female pins, gold, through hole	Connector	*	*	*	*	2.65	Connectors
 BD020-10-A-J-0350-0300-L-G	Global Connector Technology	NW	67R7292	"""0.05"""" male pin header, 1 row, 10 positions, through-hole"""	Connector	*	*	*	*	0.678	Connectors
 FTS-107-01-F-DV	Samtec	NW	56P3763	"""0.05"""" male pin header, 2 rows, 14 positions (TI JTAG) - surface mount, vertical"""	Connector	*	*	*	*	0.9	Connectors
 67996-114HLF	FCI	NW	30M1973	"""""""0.1"""""""" Male Header - 2 rows, 14 positions (TI JTAG) - Through Hole, Vertical"""""""	Connector	*	*	*	*		
@@ -168,6 +169,7 @@ TLV431	Texas Instruments	DK	296-13616-1-ND	"Texas Instruments Current Shunt SOT-
 NE555N	STMICROELECTRONICS	NW	89K1486	"IC, Timer, 555, DIP8"	"ICs, Linear"	*	16V	DIP8	*		
 LMP8601MA/NOPB	Texas Instruments	NW	19P7829	"IC, Current Sense Amplifier, 60KHz, 20x Fixed Gain, SOIC8"	"ICs, Linear"	*	*	SOIC-8	*	2.94	
 LTC1563-2CGN#PBF	Linear Technology	DK	LTC1563-2CGN#PBF-ND	"IC, Filter, Lowpass, RC, 4th order Butterworth, SSOP16"	"ICs, Linear"	*	11V	SSOP-16	*		
+SN74LVC2G08DCU	Texas Instruments	NW	67K2861	IC, Dual AND Gate, VSSOP-8	ICs, Logic	*	5.5V	VSSOP-8	*	0.309	ICs, Logic
 SN74AHC1G86DBVR	Texas Instruments	NW	10C2398	"IC, Single XOR Gate, SOT-23-5"	"Ics, Logic"	*	5.5V	SOT-23-5	*		
 "74HCT164D,652"	NXP Semiconductors	DK	568-2791-5-ND	"IC, Shift Register, 74HCT164D, SO14"	"ICs, Logic"	*	*	SOIC-14	*		
 MM74HC573MTC	Fairchild Semiconductor	NW	82C9246	"IC, Octal D-Latch, 3-State, TSSOP-20"	"ICs, Logic"	*	*	TSSOP-20	*		
@@ -321,6 +323,7 @@ BXH-001T-P0.6	JST	NW	73M9274	XH connector terminal, tin plating, crimp, 28-22awg
 XHP-4	JST	NW	74M5179	XH connector receptacle, 4 positions	Connector	*	*	*	*	0.059	Connectors
 XHP-3	JST	NW	74M5178	XH connector receptacle, 3 positions	Connector	*	*	*	*	0.043	Connectors
 5-103166-2	TE Connectivity	NW	74M8237	Wire-to-board connector, AMPMODU Mod II series, 0.1" pitch, male pins, right angle	Connector	*	*	*	*	1.92	Connectors
+5-534206-4	TE Connectivity	NW	52K3741	Board-To-Board Connector, AMPMODU Mod II Series, Through Hole, Receptacle, 8, 2.54 mm	Connector	*	*	*	*	0.779	Connectors
 M22-2020305	Harwin	Mouser	855-M22-2020305	Pin header, 2x3 positions, 2mm pitch, vertical, through hole, male, gold	Connector	*	*	*	*	0.601	Connectors
 GRPB101VWVN-RC	Sullins Connector Solutions	DK	S9014E-10-ND	Pin header, male, 10 positions, 1 row, 0.05" pitch, through hole, vertical, gold	Connector	*	*	*	*	0.748	Connectors
 43-01169	Conec	DK	626-1497-ND	CONN RCPT PNL MNT 5POS PIN PCB	Connector	*	*	M12	*		
