@@ -58,6 +58,7 @@ C1608C0G1H080D080AA	TDK	DK	445-5043-1-ND	"Capacitor, Ceramic, 8pF, 50V, NP0, 060
 55959-1030	Molex	NW	09J7567	"Micro-Clasp header, 10pos, 2 rows, RA, through-hole"	Connector	*	*	*	*		
 87438-0242	Molex	NW	19K4661	"Pico-Spox header, 2pos, RA, SMT"	Connector	*	*	*	*		
 43045-0218	Molex	NW	28M9399	"Micro-Fit header, 2pos, vert, SMT, Solder Tab Retention, Tin Plating"	Connector	*	*	*	*	2.11	
+44428-0602	Molex	DK	WM2028-ND	Micro-Fit BMI header, 6pos, right-angle, male pins, gold	Connector	*	*	*	*	2.27	Connectors
 BD020-10-A-J-0350-0300-L-G	Global Connector Technology	NW	67R7292	"""0.05"""" male pin header, 1 row, 10 positions, through-hole"""	Connector	*	*	*	*	0.678	Connectors
 FTS-107-01-F-DV	Samtec	NW	56P3763	"""0.05"""" male pin header, 2 rows, 14 positions (TI JTAG) - surface mount, vertical"""	Connector	*	*	*	*	0.9	Connectors
 67996-114HLF	FCI	NW	30M1973	"""""""0.1"""""""" Male Header - 2 rows, 14 positions (TI JTAG) - Through Hole, Vertical"""""""	Connector	*	*	*	*		
@@ -303,6 +304,7 @@ B3F-3152	Omron	NW	52F3555	"Switch, Pushbutton momentary, SPST-NO, 50 mA"	Switch	
 REF5030ID	Texas Instruments	NW	50M8901	"IC, Voltage Reference, 3.000 V, 0.05%"	Voltage Reference	*	*	SOIC-8	*		
 MM3Z3V3ST1G	ON Semiconductor	NW	09R9503	"ZENER DIODE, 200mW, 3.3V, SOD-323"	Zener Diode	*	3.3V	SOD-323	3.3V	0.15	Passives
 PB1057CT-ND	TE Connectivity	DK	V23079D1003B301	RELAY GEN PURPOSE DPDT 2A 12V	Relay	*	12V	*	*		
+3240-14-00	CNC Tech	DK	1175-1665-ND	IDC connector, wire-to-board, 14 positions, 0.025" cable pitch	Connector	*	*	*	*	2.11	Connectors
 WM17505-ND	Molex	DK	19427-0032	CONN HEADER 4POS RIGHT ANGLE TIN	Connector	*	*	*	*		
 TL7700CDGKR	Texas Instruments	DK	296-24463-2-ND	IC SUPPLY VOLT SUPERVISOR 8VSSOP	"IC, Voltage Supervior"	*	40V	VSSOP-8	*		
 ADG719BRTZ	Analog Devices	Newark	96K2067	"Analog switch, single, SPDT, SOT-23-6"	"IC, Switch"	*	*	SOT-23-6	*		
@@ -318,6 +320,7 @@ B3B-XH-A	JST	NW	73M9431	XH connector header, 2.5mm pitch, through-hole, vertical
 BXH-001T-P0.6	JST	NW	73M9274	XH connector terminal, tin plating, crimp, 28-22awg	Connector	*	*	*	*	0.069	Connectors
 XHP-4	JST	NW	74M5179	XH connector receptacle, 4 positions	Connector	*	*	*	*	0.059	Connectors
 XHP-3	JST	NW	74M5178	XH connector receptacle, 3 positions	Connector	*	*	*	*	0.043	Connectors
+5-103166-2	TE Connectivity	NW	74M8237	Wire-to-board connector, AMPMODU Mod II series, 0.1" pitch, male pins, right angle	Connector	*	*	*	*	1.92	Connectors
 M22-2020305	Harwin	Mouser	855-M22-2020305	Pin header, 2x3 positions, 2mm pitch, vertical, through hole, male, gold	Connector	*	*	*	*	0.601	Connectors
 GRPB101VWVN-RC	Sullins Connector Solutions	DK	S9014E-10-ND	Pin header, male, 10 positions, 1 row, 0.05" pitch, through hole, vertical, gold	Connector	*	*	*	*	0.748	Connectors
 43-01169	Conec	DK	626-1497-ND	CONN RCPT PNL MNT 5POS PIN PCB	Connector	*	*	M12	*		
