@@ -60,10 +60,10 @@ C1608C0G1H080D080AA	TDK	DK	445-5043-1-ND	"Capacitor, Ceramic, 8pF, 50V, NP0, 060
 43045-0218	Molex	NW	28M9399	"Micro-Fit header, 2pos, vert, SMT, Solder Tab Retention, Tin Plating"	Connector	*	*	*	*	2.11	
 44428-0602	Molex	DK	WM2028-ND	Micro-Fit BMI header, 6pos, right-angle, male pins, gold	Connector	*	*	*	*	2.27	Connectors
 44769-0602	Molex	DK	WM1961-ND	Micro-Fit BMI header, 6pos, vertical, female pins, gold, through hole	Connector	*	*	*	*	2.65	Connectors
-BD020-10-A-J-0350-0300-L-G	Global Connector Technology	NW	67R7292	"""0.05"""" male pin header, 1 row, 10 positions, through-hole"""	Connector	*	*	*	*	0.678	Connectors
-FTS-107-01-F-DV	Samtec	NW	56P3763	"""0.05"""" male pin header, 2 rows, 14 positions (TI JTAG) - surface mount, vertical"""	Connector	*	*	*	*	0.9	Connectors
-5002	Keystone	DK	5002K-ND	"""""""Miniature Test Point, White, 0.04"""""""" Mounting Dia,"""""""	Connector	*	*	*	*		
+BD020-10-A-J-0350-0300-L-G	Global Connector Technology	NW	67R7292	0.05" male pin header, 1 row, 10 positions, through-hole"""	Connector	*	*	*	*	0.678	Connectors
+FTS-107-01-F-DV	Samtec	NW	56P3763	0.05" male pin header, 2 rows, 14 positions (TI JTAG) - surface mount, vertical"""	Connector	*	*	*	*	0.9	Connectors
 67996-114HLF	FCI	NW	30M1973	0.1" Male Header - 2 rows, 14 positions (TI JTAG) - Through Hole, Vertical"	Connector	*	*	*	*	0.717	Connectors
+5002	Keystone	DK	5002K-ND	Miniature Test Point, White, 0.04" Mounting Dia,	Connector	*	*	*	*		
 43045-0621	Molex	DK	WM2674-ND	"Micro-Fit header, 6pos, RA, through-hole, with metal retaining clip"	Connector	*	*	*	*		
 43045-0609	Molex	DK	WM1827CT-ND	"Micro-Fit header, 6pos, RA, SMD, with solder tabs"	Connector	*	*	*	*	3.2	Connectors
 43045-0606	Molex	NW	92M1174	"*** NOT STOCKED - AVOID *** Micro-Fit header, 6pos, RA, SMD, with metal retaining clip"	Connector	*	*	*	*		
