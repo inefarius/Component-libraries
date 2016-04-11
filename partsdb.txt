@@ -62,8 +62,8 @@ C1608C0G1H080D080AA	TDK	DK	445-5043-1-ND	"Capacitor, Ceramic, 8pF, 50V, NP0, 060
 44769-0602	Molex	DK	WM1961-ND	Micro-Fit BMI header, 6pos, vertical, female pins, gold, through hole	Connector	*	*	*	*	2.65	Connectors
 BD020-10-A-J-0350-0300-L-G	Global Connector Technology	NW	67R7292	"""0.05"""" male pin header, 1 row, 10 positions, through-hole"""	Connector	*	*	*	*	0.678	Connectors
 FTS-107-01-F-DV	Samtec	NW	56P3763	"""0.05"""" male pin header, 2 rows, 14 positions (TI JTAG) - surface mount, vertical"""	Connector	*	*	*	*	0.9	Connectors
-67996-114HLF	FCI	NW	30M1973	"""""""0.1"""""""" Male Header - 2 rows, 14 positions (TI JTAG) - Through Hole, Vertical"""""""	Connector	*	*	*	*		
 5002	Keystone	DK	5002K-ND	"""""""Miniature Test Point, White, 0.04"""""""" Mounting Dia,"""""""	Connector	*	*	*	*		
+67996-114HLF	FCI	NW	30M1973	0.1" Male Header - 2 rows, 14 positions (TI JTAG) - Through Hole, Vertical"	Connector	*	*	*	*	0.717	Connectors
 43045-0621	Molex	DK	WM2674-ND	"Micro-Fit header, 6pos, RA, through-hole, with metal retaining clip"	Connector	*	*	*	*		
 43045-0609	Molex	DK	WM1827CT-ND	"Micro-Fit header, 6pos, RA, SMD, with solder tabs"	Connector	*	*	*	*	3.2	Connectors
 43045-0606	Molex	NW	92M1174	"*** NOT STOCKED - AVOID *** Micro-Fit header, 6pos, RA, SMD, with metal retaining clip"	Connector	*	*	*	*		
@@ -126,7 +126,7 @@ ECS-100-8-30B-CKM	ECS Inc	DK	XC1835CT-ND	"Crystal, 10MHz, 10ppm, 8pF load, 5x3SM
 R-78C3.3-1.0	Recom	DK	945-1394-5-ND	"DC-DC Converter, 1A, 9-42V input, 3.3V output, Non-Isolated, 78xx replacement"	DC/DC	*	3.3V	SIP3	1A		
 R-78C5.0-1.0	Recom	DK	945-1395-5-ND	"DC-DC Converter, 1A, 9-42V input, 5V output, Non-Isolated, 7805 replacement"	DC/DC	*	5V	SIP3	1A		
 PTH08T260WAD	Texas Instruments	DK	296-21404-ND	"DC-DC Converter, 3-A, 4.5 to 14V Input, Non-Isolated, Wide Output, Adjustable Power Module"	DC/DC	*	*	*	*		
-BAT54C	Fairchild Semiconductor	NW	35C0398	"Schottky Rectifier, common cathode, Vf=800 mV, If = 200 mA, Vrrm = 30 V"	Diode	*	*	SOT-23	*		
+BAT54C	Fairchild Semiconductor	NW	35C0398	"Schottky Rectifier, common cathode, Vf=800 mV, If = 200 mA, Vrrm = 30 V"	Diode	*	*	SOT-23	*	0.024	Passives
 CUS08F30	Toshiba	DK	CUS08F30H3FCT-ND	Schottky diode, 30V, 800 mA, USC/SOT-323	Diode	*	30V	SOD-323	*	0.34	Passives
 BZX84C5V1TS-7-F	Diodes Inc	DK	BZX84C5V1TS-FDICT-ND	"Diode array, Zener, 5.1 V, 3 discrete diodes, 200 mW, SOT-363"	Diode	*	5.1 V	SOD-323	5.1 V		
 MM3Z3V0T1G	ON Semiconductor	NW	09R9502	"Diode, Zener, 3 V, 200 mW, SOD-323"	Diode	*	3 V	SOD-323	3 V	0.017	Passives
